@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655825605175",
+    "project_id": "chat-room-be223",
+    "storage_bucket": "chat-room-be223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655825605175:android:757ef236629cfa0a98a5b2",
+        "android_client_info": {
+          "package_name": "com.taameni.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655825605175-lstcfclcl8lubnbg38ngu3q570joeb5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHFumIuQpHSX1C_86SF7J6J3N5021TjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655825605175-lstcfclcl8lubnbg38ngu3q570joeb5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
